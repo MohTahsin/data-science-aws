@@ -1,4 +1,9 @@
-# data-science-aws
+# Data Science on AWS 
 a good starting point/resources for getting start with Data Science on AWS.
 
-4/23/2025: HuggingFace Transformers Course Reboot - https://huggingface.co/learn/llm-course/chapter1/1
+## Resources
+Generative AI on AWS - https://aws.amazon.com/ai/generative-ai/
+HuggingFace Transformers Course Reboot - https://huggingface.co/learn/llm-course/chapter1/1
+Neural Bits blog - https://neuralbits.substack.com/
+
+
